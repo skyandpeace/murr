@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
 [editor on GitHub](https://github.com/skyandpeace/murr/edit/master/test.php)
+[murr]http://127.0.0.1/test.php
 
 You can use the 
 
