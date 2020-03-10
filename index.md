@@ -1,44 +1,23 @@
-## Welcome to GitHub Pages
+### 個人簡歷
+姓名：許嘉鴻
+通訊地址：台南市仁德區上崙里德崙路77巷88號2F5 
+在學地址：台中市太平區中山路二段477巷68號 
+電話：0968788560 
+E-mail： johnkikijoy@gmail.com
 
-[editor on GitHub](https://github.com/skyandpeace/murr/edit/master/test.php)
+## 學歷
+就讀國立勤益科技大學資訊管理系
+## 專業證照 |得獎經驗
+數位電子乙級技術士
+MTA: Database Fundamentals 
+MTA: Software Development Fundamentals 
+MTA: Networking Fundamentals 
+2019 第六屆頂尖盃全國企業資源規劃系統實作技能人才賽 大專組第一級 
+第三名 
+2019 第六屆頂尖盃全國企業資源規劃系統實作技能人才賽 大專組第二級 
+佳作
 
+## 技能
 
-You can use the 
-
-to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-[murr](http://127.0.0.1/test.php)
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/skyandpeace/murr/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#程式語言
+基本C#,java,PHP,HTML,C,C++,VB程式語言能力
